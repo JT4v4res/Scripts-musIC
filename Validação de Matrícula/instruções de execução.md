@@ -25,4 +25,4 @@ RANGE_NAME2 = 'RANGE DA SUA PLANILHA DE DESTINO'
 ```
 
 Para pegar o ID da planilha, basta pegar do próprio link de acesso da mesma, da seguinte maneira:
-![Exemplo](../src/imgs/[exemplo_id_planilha.png](https://github.com/JT4v4res/Scripts-musIC/blob/main/src/imgs/exemplo_id_planilha.png.png))
+![https://github.com/JT4v4res/Scripts-musIC/blob/main/src/imgs/exemplo_id_planilha.png.png]()
