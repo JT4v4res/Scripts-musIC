@@ -5,3 +5,4 @@ Scripts criados para automatizar tarefas do gerenciamento das planilhas do proje
 
 Dentre os atuais scripts disponíveis, temos:
 - Validador de Matrícula
+- Ordenador de Nomes
